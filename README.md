@@ -16,7 +16,7 @@ I assessed an intentionally vulnerable web application (**OWASP Juice Shop**) ru
 
 ## Full Report
 
-**[Read the full security assessment report](report/Security-Assessment-Report.md)**
+**[Read the full security assessment report](report/security-ssessment.md)**
 
 ---
 
@@ -73,14 +73,14 @@ The CSP should be adjusted to the application's real script, style, and image ne
 SWYNEX-Security-Fundamentals-Assessment/
 ├── README.md
 ├── report/
-│   └── Security-Assessment-Report.md
+│   └── security-assessment.md
 └── evidence/
     ├── 01-juice-shop-running.png
     ├── 02-nmap-reconnaissance.png
     ├── 03-http-header-analysis.png
-    ├── 04-zap-anti-clickjacking.png.png
+    ├── 04-zap-anti-clickjacking.png
     ├── 05-zap-csp.png
-    └── 6-zap-x-content-type-options.png.png
+    └── 6-zap-x-content-type-options.png
 ```
 
 ---
@@ -102,7 +102,7 @@ SWYNEX-Security-Fundamentals-Assessment/
 Computer Science Engineering student (IoT, Blockchain, Cybersecurity)
 
 - GitHub: [realeesh17](https://github.com/realeesh17)
-- LinkedIn: [rakeshbabriya](https://www.linkedin.com/in/rakeshbabriya)
+- LinkedIn: [rakeshbabriya](www.linkedin.com/in/rakeshbabariya)
 
 ---
 
