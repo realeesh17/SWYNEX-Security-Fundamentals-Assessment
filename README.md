@@ -16,7 +16,7 @@ I assessed an intentionally vulnerable web application (**OWASP Juice Shop**) ru
 
 ## Full Report
 
-**[Read the full security assessment report](report/security-ssessment.md)**
+**[Read the full security assessment report](report/security-assessment.md)**
 
 ---
 
