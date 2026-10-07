@@ -4,7 +4,7 @@
 **Target:** OWASP Juice Shop (`http://127.0.0.1:3000`)
 **Environment:** Isolated local laboratory (VMware + Kali Linux + Docker)
 **Assessment Type:** Reconnaissance and passive web security analysis
-**Date:** _[add date]_
+**Date:** _07-10-2026_
 
 ---
 
